@@ -11,4 +11,6 @@
 1. [Beautiful Autumn](https://ibb.co/4M7YtB0)
 2. [Single line Code Snippet](#single-lin-code-snippet)
 3. [Bash Script](#bash-script)
-4.
+4. [Json Objects](#json-objects)
+5. [Sample Tables](#sample-tables)
+6. [Sample Hyperlinks](#sample-hyperlinks)
