@@ -17,6 +17,7 @@
 
 
 ### Beatiful Autumns
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Autumn_Lane.jpg/800px-Autumn_Lane.jpg" alt="Alt text">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Autumn_Lane.jpg" alt="Alt text">
 
 ### Single Line Code Snippet
+
