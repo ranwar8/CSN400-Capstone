@@ -8,6 +8,6 @@
 
 ---
 ### Table of Contents
--1 [Beautiful Autumn](https://ibb.co/4M7YtB0)
--2 [Single line Code Snippet](#single-lin-code-snippet)
--3 [Bash Scrip](#bash-script)
+1 [Beautiful Autumn](https://ibb.co/4M7YtB0)
+2 [Single line Code Snippet](#single-lin-code-snippet)
+3 [Bash Script](#bash-script)
