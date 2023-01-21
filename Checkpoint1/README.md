@@ -45,3 +45,8 @@ echo "I am enjoying doing all these new stuff"
 |Windows OS  |   C++          |
 |  MAC OS    |   Swift        |
 | Linux OS   |   Python       |  
+
+
+### Sample Hyperlinks
+
+[My Login Page of SenecaCollege](https://learn.senecacollege.ca/ultra/institution-page)
