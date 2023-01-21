@@ -37,4 +37,11 @@ echo "I am enjoying doing all these new stuff"
 "course": "csn400",
 }
 }
+```
 
+### Sample Tables
+|    My OS   | Programming    |
+|------------|:--------------:|
+|Windows OS  |   C++          |
+|  MAC OS    |   Swift        |
+| Linux OS   |   Python       |  
