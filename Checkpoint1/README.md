@@ -22,3 +22,19 @@
 ### Single Line Code Snippet
 ` echo "Hello Rashed of CSN400" `
 
+### Bash Script
+```bash
+#!/bin/bash
+echo "This is my first Markdown"
+echo "I am enjoying doing all these new stuff"
+```
+
+### Json Objects
+```json
+{
+"author": {
+"name": "RashedulAnwar",
+"course": "csn400",
+}
+}
+
