@@ -26,7 +26,7 @@ Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
  ```
- #### On the other hand the command *(git log)* displays the commit history of local repository. For Example:- 
+ #### On the other hand, the command *(git log)* displays the commit history of local repository. For Example:- 
  ```
 $ git log
 commit d8f9a088dcdd82b629c1c95d27aee8b42b2c6ce4 (HEAD -> main, origin/main, origin/HEAD)
@@ -41,3 +41,29 @@ Date:   Fri Jan 27 18:07:38 2023 -0500
 
     add README.md file
  ```
+
+ ### PART C - Creating & Merging Branches: 
+ #### Here below  *`git log -n 5`* command output:-
+  ```
+$ git log -n 5 
+commit 40cde1f6bf90e01650a6dc4aa19cb560b76637e9 (HEAD -> main)
+Merge: ce4fcf4 1ae5ee1
+Author: ranwar8 <ranwar8@myseneca.ca>
+Date:   Fri Jan 27 17:35:14 2023 -0500
+
+    Merge branch 'feat-emojis'
+
+commit 1ae5ee162964a9810ce2b4603eba3f5d8e820e31 (origin/feat-emojis, feat-emojis)
+Author: ranwar8 <ranwar8@myseneca.ca>
+Date:   Fri Jan 27 17:32:43 2023 -0500
+
+    adds emojis to feat-emojis branch
+
+commit ce4fcf43227db1e97a9ff9db99d1e450c2157d1a (origin/main, origin/HEAD)
+Author: ranwar8 <ranwar8@myseneca.ca>
+Date:   Fri Jan 27 17:24:14 2023 -0500
+
+    adds footnotes folder
+  ```
+  ### PART D - Git Branching Strategy Review Question:
+  
