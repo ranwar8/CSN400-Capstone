@@ -12,4 +12,10 @@
 3. [Part C - Creating & Merging Branches](#creating-and-merging-branches)
 4. [Part D - Git Branching Strategy Review Question](#git-branching-strategy-review-questions)
 
-### Part A - Adding Files - Local Repo Workflow:
+### PART A - Adding Files - Local Repo Workflow:
+1. Create *Checkpoint2* Directory in CSN400-Capstone Repo
+2. create these *git_status_untracked.txt*(For untracked files) *git_status_uncommitted.tx*(For-files-to be committed) and *git_status_committed.txt*(For committed file) text files with *git status* output
+3. Push your changes to remote 
+
+### PART B - Inspecting Local Repo with *git status* and *git log*:
+#### 
