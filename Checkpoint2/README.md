@@ -67,7 +67,7 @@ Date:   Fri Jan 27 17:24:14 2023 -0500
   ```
   ### PART D - Git Branching Strategy Review Question:
   1. From my own point of view, *main/master* branch is the root of all branch and it contains the source code and this branch is protected and **pull request** is used for any changes in this branch. On the other hand, develop branch is considered as secondary branch of *master* branch and the develop branch may have code that's still in testing or development.
-  2. Three supporting branches are `*Feature Branches*`, `*Hotfix Branches*` and `*Release Branches*` :<br/>
+  2. Three supporting branches are *`Feature Branches`*, *`Hotfix Branches`* and *`Release Branches`* :<br/>
   <u>**Feature Branches:**</u> These branches are used to categorize newly developed features or modifications.They are predominantly categorised from the develop branch, and once the feature is accomplished, they are merged back into the develop branch.<br/><br/>
   <u>**Hotfix Branches:**</u> These branches are used to resolve complex bugs in the code that is implemented in production. Usually, they are originated from the master branch.<br/><br/>
   <u>**Release Branches:**</u> In order to be ready for a new release, these branches are used. The modifications that will be incorporated into the release Branch, are tested, validated, and documented  which are often formed from the develop branch.
