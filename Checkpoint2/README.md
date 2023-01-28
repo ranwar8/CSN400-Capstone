@@ -18,4 +18,26 @@
 3. Push your changes to remote 
 
 ### PART B - Inspecting Local Repo with *git status* and *git log*:
-#### 
+#### The command *(git status)* is used to check the current status of the local repository that includes current branch you are on, any untracked files and the changes. Example :-
+``` 
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+ ```
+ #### On the other hand the command *(git log)* displays the commit history of local repository. For Example:- 
+ ```
+$ git log
+commit d8f9a088dcdd82b629c1c95d27aee8b42b2c6ce4 (HEAD -> main, origin/main, origin/HEAD)
+Author: ranwar8 <ranwar8@myseneca.ca>
+Date:   Fri Jan 27 18:25:29 2023 -0500
+
+    3rd commit
+
+commit f17cd95bf1321a1a7fc8cb08312019a52e90a3b1
+Author: ranwar8 <ranwar8@myseneca.ca>
+Date:   Fri Jan 27 18:07:38 2023 -0500
+
+    add README.md file
+ ```
