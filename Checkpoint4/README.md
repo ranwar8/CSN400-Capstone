@@ -16,3 +16,8 @@
 ---
 ## <u>PART A</u>:
 ![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint4/AzureNetworkTopology.png)
+
+## <u>PART B</u>:
+[AZ VNET PEERING](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint4/peerings.tbl)
+[az network vnet list](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint4/student_vnet.json)
+[vnet list](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint4/vnet_list.json)
