@@ -14,4 +14,5 @@
 3. [Part C - Working in Azure CLI Bash](#Azure-cli-bash-cmd-link)
 4. [Part D - Network Review Questions](#Review-QA)
 ---
-
+## <u>PART A</u>:
+![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint4/AzureNetworkTopology.png)
