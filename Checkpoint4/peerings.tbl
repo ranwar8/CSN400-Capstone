@@ -1,0 +1,32 @@
+[
+  {
+    "allowForwardedTraffic": true,
+    "allowGatewayTransit": false,
+    "allowVirtualNetworkAccess": true,
+    "doNotVerifyRemoteGateways": false,
+    "etag": "W/\"591013cd-bca0-4a80-992c-4d308b76656f\"",
+    "id": "/subscriptions/bd627181-5ddb-4bb6-b03f-5297c3be4e1e/resourceGroups/Student-RG-846036/providers/Microsoft.Network/virtualNetworks/Server-12/virtualNetworkPeerings/Server12-Router12",
+    "name": "Server12-Router12",
+    "peeringState": "Connected",
+    "peeringSyncLevel": "FullyInSync",
+    "provisioningState": "Succeeded",
+    "remoteAddressSpace": {
+      "addressPrefixes": [
+        "192.168.12.0/24"
+      ]
+    },
+    "remoteVirtualNetwork": {
+      "id": "/subscriptions/bd627181-5ddb-4bb6-b03f-5297c3be4e1e/resourceGroups/Student-RG-846036/providers/Microsoft.Network/virtualNetworks/Router-12",
+      "resourceGroup": "Student-RG-846036"
+    },
+    "remoteVirtualNetworkAddressSpace": {
+      "addressPrefixes": [
+        "192.168.12.0/24"
+      ]
+    },
+    "resourceGroup": "Student-RG-846036",
+    "resourceGuid": "9c6a75bd-38e6-0b55-2246-8d8ba26d0bc2",
+    "type": "Microsoft.Network/virtualNetworks/virtualNetworkPeerings",
+    "useRemoteGateways": false
+  }
+]
