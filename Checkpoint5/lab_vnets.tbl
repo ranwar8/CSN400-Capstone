@@ -1,0 +1,209 @@
+[
+  {
+    "allowedSubnets": [
+      {
+        "allowPublicIp": "Deny",
+        "labSubnetName": "SN1",
+        "resourceId": "/subscriptions/bd627181-5ddb-4bb6-b03f-5297c3be4e1e/resourceGroups/Student-RG-846036/providers/Microsoft.Network/virtualNetworks/Router-12/subnets/SN1"
+      }
+    ],
+    "createdDate": "2023-02-16T02:47:24.005124+00:00",
+    "description": "For Router User",
+    "externalProviderResourceId": "/subscriptions/bd627181-5ddb-4bb6-b03f-5297c3be4e1e/resourcegroups/student-rg-846036/providers/microsoft.network/virtualnetworks/router-12",
+    "externalSubnets": null,
+    "id": "/subscriptions/bd627181-5ddb-4bb6-b03f-5297c3be4e1e/resourcegroups/student-rg-846036/providers/microsoft.devtestlab/labs/csn400-12/virtualnetworks/router-12",
+    "location": null,
+    "name": "router-12",
+    "provisioningState": "Succeeded",
+    "resourceGroup": "student-rg-846036",
+    "subnetOverrides": [
+      {
+        "labSubnetName": "SN1",
+        "resourceId": "/subscriptions/bd627181-5ddb-4bb6-b03f-5297c3be4e1e/resourceGroups/Student-RG-846036/providers/Microsoft.Network/virtualNetworks/Router-12/subnets/SN1",
+        "sharedPublicIpAddressConfiguration": null,
+        "useInVmCreationPermission": "Allow",
+        "usePublicIpAddressPermission": "Deny",
+        "virtualNetworkPoolName": null
+      },
+      {
+        "labSubnetName": "SN2",
+        "resourceId": "/subscriptions/bd627181-5ddb-4bb6-b03f-5297c3be4e1e/resourceGroups/Student-RG-846036/providers/Microsoft.Network/virtualNetworks/Router-12/subnets/SN2",
+        "sharedPublicIpAddressConfiguration": {
+          "allowedPorts": [
+            {
+              "backendPort": 3389,
+              "transportProtocol": "Tcp"
+            },
+            {
+              "backendPort": 22,
+              "transportProtocol": "Tcp"
+            }
+          ]
+        },
+        "useInVmCreationPermission": "Deny",
+        "usePublicIpAddressPermission": "Deny",
+        "virtualNetworkPoolName": null
+      },
+      {
+        "labSubnetName": "SN3",
+        "resourceId": "/subscriptions/bd627181-5ddb-4bb6-b03f-5297c3be4e1e/resourceGroups/Student-RG-846036/providers/Microsoft.Network/virtualNetworks/Router-12/subnets/SN3",
+        "sharedPublicIpAddressConfiguration": {
+          "allowedPorts": [
+            {
+              "backendPort": 3389,
+              "transportProtocol": "Tcp"
+            },
+            {
+              "backendPort": 22,
+              "transportProtocol": "Tcp"
+            }
+          ]
+        },
+        "useInVmCreationPermission": "Deny",
+        "usePublicIpAddressPermission": "Deny",
+        "virtualNetworkPoolName": null
+      },
+      {
+        "labSubnetName": "SN4",
+        "resourceId": "/subscriptions/bd627181-5ddb-4bb6-b03f-5297c3be4e1e/resourceGroups/Student-RG-846036/providers/Microsoft.Network/virtualNetworks/Router-12/subnets/SN4",
+        "sharedPublicIpAddressConfiguration": {
+          "allowedPorts": [
+            {
+              "backendPort": 3389,
+              "transportProtocol": "Tcp"
+            },
+            {
+              "backendPort": 22,
+              "transportProtocol": "Tcp"
+            }
+          ]
+        },
+        "useInVmCreationPermission": "Deny",
+        "usePublicIpAddressPermission": "Deny",
+        "virtualNetworkPoolName": null
+      }
+    ],
+    "tags": null,
+    "type": "Microsoft.DevTestLab/labs/virtualNetworks",
+    "uniqueIdentifier": "324bbd2d-7297-4222-97db-726159b853de"
+  },
+  {
+    "allowedSubnets": [
+      {
+        "allowPublicIp": "Deny",
+        "labSubnetName": "SN1",
+        "resourceId": "/subscriptions/bd627181-5ddb-4bb6-b03f-5297c3be4e1e/resourceGroups/Student-RG-846036/providers/Microsoft.Network/virtualNetworks/Server-12/subnets/SN1"
+      }
+    ],
+    "createdDate": "2023-02-16T02:48:15.385025+00:00",
+    "description": "For server users",
+    "externalProviderResourceId": "/subscriptions/bd627181-5ddb-4bb6-b03f-5297c3be4e1e/resourcegroups/student-rg-846036/providers/microsoft.network/virtualnetworks/server-12",
+    "externalSubnets": null,
+    "id": "/subscriptions/bd627181-5ddb-4bb6-b03f-5297c3be4e1e/resourcegroups/student-rg-846036/providers/microsoft.devtestlab/labs/csn400-12/virtualnetworks/server-12",
+    "location": null,
+    "name": "server-12",
+    "provisioningState": "Succeeded",
+    "resourceGroup": "student-rg-846036",
+    "subnetOverrides": [
+      {
+        "labSubnetName": "SN2",
+        "resourceId": "/subscriptions/bd627181-5ddb-4bb6-b03f-5297c3be4e1e/resourceGroups/Student-RG-846036/providers/Microsoft.Network/virtualNetworks/Server-12/subnets/SN2",
+        "sharedPublicIpAddressConfiguration": {
+          "allowedPorts": [
+            {
+              "backendPort": 3389,
+              "transportProtocol": "Tcp"
+            },
+            {
+              "backendPort": 22,
+              "transportProtocol": "Tcp"
+            }
+          ]
+        },
+        "useInVmCreationPermission": "Deny",
+        "usePublicIpAddressPermission": "Deny",
+        "virtualNetworkPoolName": null
+      },
+      {
+        "labSubnetName": "SN3",
+        "resourceId": "/subscriptions/bd627181-5ddb-4bb6-b03f-5297c3be4e1e/resourceGroups/Student-RG-846036/providers/Microsoft.Network/virtualNetworks/Server-12/subnets/SN3",
+        "sharedPublicIpAddressConfiguration": {
+          "allowedPorts": [
+            {
+              "backendPort": 3389,
+              "transportProtocol": "Tcp"
+            },
+            {
+              "backendPort": 22,
+              "transportProtocol": "Tcp"
+            }
+          ]
+        },
+        "useInVmCreationPermission": "Deny",
+        "usePublicIpAddressPermission": "Deny",
+        "virtualNetworkPoolName": null
+      },
+      {
+        "labSubnetName": "SN4",
+        "resourceId": "/subscriptions/bd627181-5ddb-4bb6-b03f-5297c3be4e1e/resourceGroups/Student-RG-846036/providers/Microsoft.Network/virtualNetworks/Server-12/subnets/SN4",
+        "sharedPublicIpAddressConfiguration": {
+          "allowedPorts": [
+            {
+              "backendPort": 3389,
+              "transportProtocol": "Tcp"
+            },
+            {
+              "backendPort": 22,
+              "transportProtocol": "Tcp"
+            }
+          ]
+        },
+        "useInVmCreationPermission": "Deny",
+        "usePublicIpAddressPermission": "Deny",
+        "virtualNetworkPoolName": null
+      },
+      {
+        "labSubnetName": "SN1",
+        "resourceId": "/subscriptions/bd627181-5ddb-4bb6-b03f-5297c3be4e1e/resourceGroups/Student-RG-846036/providers/Microsoft.Network/virtualNetworks/Server-12/subnets/SN1",
+        "sharedPublicIpAddressConfiguration": null,
+        "useInVmCreationPermission": "Allow",
+        "usePublicIpAddressPermission": "Deny",
+        "virtualNetworkPoolName": null
+      }
+    ],
+    "tags": null,
+    "type": "Microsoft.DevTestLab/labs/virtualNetworks",
+    "uniqueIdentifier": "a4a1f8e9-bd7b-4225-87c8-b78a690b239b"
+  },
+  {
+    "allowedSubnets": [
+      {
+        "allowPublicIp": "Deny",
+        "labSubnetName": "Virtual-Desktop-Client",
+        "resourceId": "/subscriptions/bd627181-5ddb-4bb6-b03f-5297c3be4e1e/resourceGroups/Student-RG-846036/providers/Microsoft.Network/virtualNetworks/Student-846036-vnet/subnets/Virtual-Desktop-Client"
+      }
+    ],
+    "createdDate": "2023-02-16T01:57:00.146661+00:00",
+    "description": null,
+    "externalProviderResourceId": "/subscriptions/bd627181-5ddb-4bb6-b03f-5297c3be4e1e/resourcegroups/student-rg-846036/providers/microsoft.network/virtualnetworks/student-846036-vnet",
+    "externalSubnets": null,
+    "id": "/subscriptions/bd627181-5ddb-4bb6-b03f-5297c3be4e1e/resourcegroups/student-rg-846036/providers/microsoft.devtestlab/labs/csn400-12/virtualnetworks/student-846036-vnet",
+    "location": null,
+    "name": "student-846036-vnet",
+    "provisioningState": "Succeeded",
+    "resourceGroup": "student-rg-846036",
+    "subnetOverrides": [
+      {
+        "labSubnetName": "Virtual-Desktop-Client",
+        "resourceId": "/subscriptions/bd627181-5ddb-4bb6-b03f-5297c3be4e1e/resourceGroups/Student-RG-846036/providers/Microsoft.Network/virtualNetworks/Student-846036-vnet/subnets/Virtual-Desktop-Client",
+        "sharedPublicIpAddressConfiguration": null,
+        "useInVmCreationPermission": "Allow",
+        "usePublicIpAddressPermission": "Deny",
+        "virtualNetworkPoolName": null
+      }
+    ],
+    "tags": null,
+    "type": "Microsoft.DevTestLab/labs/virtualNetworks",
+    "uniqueIdentifier": "e3f53fa7-5a48-4128-8d7d-f91a12039c04"
+  }
+]

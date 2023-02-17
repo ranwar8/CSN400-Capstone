@@ -1,0 +1,47 @@
+{
+    "properties": {
+        "notes": "Red Hat Enterprise Linux 8.1 (LVM)\t",
+        "ownerObjectId": "750d1eda-27d3-4562-8dc7-a6e29bf9806d",
+        "ownerUserPrincipalName": "odl_user_846036@seneca-csn400naa.cloudlabs.ai",
+        "createdByUserId": "100320026C62CE32",
+        "createdByUser": "odl_user_846036@seneca-csn400naa.cloudlabs.ai",
+        "createdDate": "2023-02-17T02:28:38.4302114+00:00",
+        "computeId": "/subscriptions/bd627181-5ddb-4bb6-b03f-5297c3be4e1e/resourceGroups/student-rg-846036/providers/Microsoft.Compute/virtualMachines/LS-12",
+        "osType": "Linux",
+        "size": "Standard_B2s",
+        "userName": "ranwar8",
+        "isAuthenticationWithSshKey": false,
+        "labSubnetName": "SN1",
+        "labVirtualNetworkId": "/subscriptions/bd627181-5ddb-4bb6-b03f-5297c3be4e1e/resourcegroups/student-rg-846036/providers/microsoft.devtestlab/labs/csn400-12/virtualnetworks/server-12",
+        "disallowPublicIpAddress": true,
+        "artifactDeploymentStatus": {
+            "artifactsApplied": 0,
+            "totalArtifacts": 0
+        },
+        "galleryImageReference": {
+            "offer": "RHEL",
+            "publisher": "RedHat",
+            "sku": "8.1",
+            "osType": "Linux",
+            "version": "latest"
+        },
+        "networkInterface": {},
+        "allowClaim": false,
+        "storageType": "Standard",
+        "virtualMachineCreationSource": "FromGalleryImage",
+        "lastKnownPowerState": "Running",
+        "provisioningState": "Succeeded",
+        "uniqueIdentifier": "3820d555-86f6-445b-bd1b-add14b8368f2"
+    },
+    "location": "canadaeast",
+    "tags": {
+        "DeploymentId": "846036",
+        "LaunchId": "28959",
+        "LaunchType": "ON_DEMAND_LAB",
+        "TemplateId": "4678",
+        "TenantId": "353"
+    },
+    "id": "/subscriptions/bd627181-5ddb-4bb6-b03f-5297c3be4e1e/resourcegroups/student-rg-846036/providers/microsoft.devtestlab/labs/csn400-12/virtualmachines/ls-12",
+    "name": "LS-12",
+    "type": "Microsoft.DevTestLab/labs/virtualMachines"
+}
