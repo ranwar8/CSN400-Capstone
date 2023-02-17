@@ -23,6 +23,15 @@
 - [ ] [List of Custom Images](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint5/custom_images.tbl)<br/>
 - [ ] [List of VNETS](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint5/lab_vnets.tbl)
 - [ ] [List of VMs](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint5/lab_vm.tbl)
+---
+## <u>PART D</u>:
+![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint5/SS-D1.png)
+![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint5/SS-D2.png)
+![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint5/SS-D3.png)
+![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint5/SS-D4.png)
+![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint5/SS-D5.png)
+![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint5/SS-6.png)
+
 
 
 
