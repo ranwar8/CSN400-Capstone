@@ -8,10 +8,10 @@
 ---
 ### Table of Contents
 
-1. [Part A - Creating Resources in Azure Portal](#header1)
-2. [Part B - Working with `az lab` CLI command](#header2)
-3. [Part C - Creating VMs using Azure Resource Manager (ARM) & Custom Images](#header3)
-4. [Part D - Azure Cost Analysis Charts](#header4)
+1. [Part A - Creating Resources in Azure Portal](#creating-resources)
+2. [Part B - Working with `az lab` CLI command](#AZ-CLI-cmd)
+3. [Part C - Creating VMs using Azure Resource Manager (ARM) & Custom Images](#ARM-Custome_Images)
+4. [Part D - Azure Cost Analysis Charts](#Azure_cost-Analysis)
 
 ---
 ## <u>PART A</u>:
