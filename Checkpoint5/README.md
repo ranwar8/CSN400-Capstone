@@ -18,6 +18,7 @@
 ![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint5/SS-A1.png)
 ![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint5/SS-A2.png)
 ---
-## <u>PART B/u>:
+## <u>PART B</u>:
+
 
 
