@@ -19,6 +19,10 @@
 ![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint5/SS-A2.png)
 ---
 ## <u>PART B</u>:
+- [ ] [Details OF DEVTest LAB](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint5/devtest_lab.json)<br/>
+- [ ] [List of Custom Images](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint5/custom_images.tbl)<br/>
+- [ ] [List of VNETS](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint5/lab_vnets.tbl)
+- [ ] [List of VMs](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint5/lab_vm.tbl)
 
 
 
