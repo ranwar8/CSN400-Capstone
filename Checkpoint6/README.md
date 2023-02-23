@@ -502,4 +502,10 @@ Command group 'lab' is in preview and under development. Reference and support l
 
 ```
 
-## PART E- 
+## <u>PART E-Azure Cost Analysis Charts</u>:
+![Alt txt]
+![Alt txt]
+![Alt txt]
+![Alt txt]
+![Alt txt]
+![Alt txt]
