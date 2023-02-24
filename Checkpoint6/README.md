@@ -506,6 +506,6 @@ Command group 'lab' is in preview and under development. Reference and support l
 ![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint6/PART-E-1.png)
 ![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint6/PART-E2.png)
 ![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint6/PART-E3.png)
-![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint6/E-4.png)
+![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint6/E4-New.png)
 ![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint6/E-5.png)
 ![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint6/E-6.png)
