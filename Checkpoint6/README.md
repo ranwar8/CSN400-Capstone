@@ -27,6 +27,8 @@ odl_user [ ~ ]$
 ```
 ## <u>PART D - Basic Connectivity</u>:
 
+<details><summary>Click for Custom Image List Details</summary>
+
 ```json
 az lab custom-image list --lab-name CSN400-12 --resource-group Student-RG-846036
 Command group 'lab' is in preview and under development. Reference and support levels: https://aka.ms/CLI_refstatus
@@ -241,7 +243,13 @@ Command group 'lab' is in preview and under development. Reference and support l
   }
 ]
 ```
+
+</details>
+
 ---
+
+<details><summary>Click for Custom Image List Details</summary>
+
 ```json
 az lab vm list --lab-name CSN400-12 -g Student-RG-846036
 Command group 'lab' is in preview and under development. Reference and support levels: https://aka.ms/CLI_refstatus
@@ -499,6 +507,8 @@ Command group 'lab' is in preview and under development. Reference and support l
     "virtualMachineCreationSource": "FromCustomImage"
   }
 ]
+
+</details>
 
 ```
 
