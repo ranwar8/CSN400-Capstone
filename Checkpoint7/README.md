@@ -47,4 +47,8 @@ Mar 25 01:27:34 LR-12 kernel: SSH FORWARD From LS-12 -  IN=eth0 OUT=eth0 MAC=00:
 Mar 25 02:05:53 LR-12 kernel: TO_DROP_FORWARDIN=eth0 OUT=eth0 MAC=00:0d:3a:0a:12:50:00:42:68:39:97:9d:08:00 SRC=10.65.107.4 DST=172.17.12.36 LEN=69 TOS=0x00 PREC=0x00 TTL=127 ID=1119 PROTO=UDP SPT=51397 DPT=53 LEN=49
 
 ```
+---
+## <u>Part C - Analyzing Logged Packets</u>:
 
+| Packet ID | Date | MAC Address | Protocol | Source Address | Source Address | Dest. Address | Source Port | Dest. Port | Packet Length | LOG Prefix | Time To Live |
+|-|-|-|-|-|-|-|-|-|-|-|-|
