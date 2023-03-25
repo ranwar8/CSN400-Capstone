@@ -7,10 +7,10 @@
 - **TEACHER’S NAME: Atoosa Nasiri**
 ---
 ### <u>Table of Contents</u>:
-1. [Part A – Logging Packets with Specific Prefixes](#logging_packets)
-2. [Part B - Filtering Logged Packets](#filtering_logged_packets)
-3. [Part C - Analyzing Logged Packets](#analyzing_logged_packets)
-4. [Part D - Azure Cost Analysis Charts](#Azure_Cost_analysis_charts)
+1. [Part A – Logging Packets with Specific Prefixes](#header1)
+2. [Part B - Filtering Logged Packets](#header2)
+3. [Part C - Analyzing Logged Packets](#header3)
+4. [Part D - Azure Cost Analysis Charts](#header4)
 ---
 ## <u>Part A – Logging Packets with Specific Prefixes:</u>
 ### Firewall Log Rule Output:
