@@ -41,3 +41,10 @@ num   pkts bytes target     prot opt in     out     source               destina
 ```
 ---
 ## <u>Part B - Filtering Logged Packets</u>:
+### LOGGED PACKET LIST:
+```
+Mar 25 01:27:34 LR-12 kernel: SSH FORWARD From LS-12 -  IN=eth0 OUT=eth0 MAC=00:0d:3a:0a:12:50:00:42:68:39:97:9d:08:00 SRC=172.17.12.37 DST=10.65.107.4 LEN=40 TOS=0x08 PREC=0x40 TTL=63 ID=29788 DF PROTO=TCP SPT=22 DPT=53214 WINDOW=296 RES=0x00 ACK URGP=0
+Mar 25 02:05:53 LR-12 kernel: TO_DROP_FORWARDIN=eth0 OUT=eth0 MAC=00:0d:3a:0a:12:50:00:42:68:39:97:9d:08:00 SRC=10.65.107.4 DST=172.17.12.36 LEN=69 TOS=0x00 PREC=0x00 TTL=127 ID=1119 PROTO=UDP SPT=51397 DPT=53 LEN=49
+
+```
+
