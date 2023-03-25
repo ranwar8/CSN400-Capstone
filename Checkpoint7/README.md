@@ -10,7 +10,7 @@
 1. [Part A – Logging Packets with Specific Prefixes](#header1)
 2. [Part B - Filtering Logged Packets](#header2)
 3. [Part C - Analyzing Logged Packets](#header3)
-4. [Part D - Azure Cost Analysis Charts](#header4)
+4. [Part D - Azure Cost Analysis Charts:</u>](#header4)
 ---
 ## <u>Part A – Logging Packets with Specific Prefixes:</u>
 ### Firewall Log Rule Output:
@@ -54,7 +54,9 @@ Mar 25 07:01:04 LR-12 kernel: RDP FORWARD to WS-12 - IN=eth0 OUT=eth0 MAC=00:0d:
 |-|-|-|-|-|-|-|-|-|-|-|-|
 |29788|Mar 25 01:27:34|00:0d:3a:0a:12:50:00:42:68:39:97:9d:08:00|TCP| ||10.65.107.4|172.17.12.32|22|53214|40|SSH FORWARD to LS|10 sec|
 |1119|Mar 25 02:05:53|00:0d:3a:0a:12:50:00:42:68:39:97:9d:08:00|UDP| ||10.65.107.4|172.17.12.36|51397|53|69|UDP Forward to WS|10 sec|
-| 14137 |Mar 25 07:01:04|00:0d:3a:0a:12:50:00:42:68:39:97:9d:08:00|RDP| |10.65.107.4|172.17.12.36|55121|3389|40|RDP Forward to WS|10 sec|
+| 14137 |Mar 25 07:01:04|00:0d:3a:0a:12:50:00:42:68:39:97:9d:08:00|RDP| ||10.65.107.4|172.17.12.36|55121|3389|40|RDP Forward to WS|10 sec|
+---
+## <u>Part D - Azure Cost Analysis Charts:</u>
 
 
 
