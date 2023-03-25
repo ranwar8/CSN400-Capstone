@@ -50,11 +50,11 @@ Mar 25 07:01:04 LR-12 kernel: RDP FORWARD to WS-12 - IN=eth0 OUT=eth0 MAC=00:0d:
 ```
 ---
 ## <u>Part C - Analyzing Logged Packets</u>:
-| Packet ID | Date | MAC Address | Protocol | Source Address | Source Address | Dest. Address | Source Port | Dest. Port | Packet Length | LOG Prefix | Time To Live |
+| Packet ID | Date | MAC Address | Protocol |Source Address| Source Address | Dest. Address | Source Port | Dest. Port | Packet Length | LOG Prefix | Time To Live |
 |-|-|-|-|-|-|-|-|-|-|-|-|
-|29788|Mar 25 01:27:34|00:0d:3a:0a:12:50:00:42:68:39:97:9d:08:00|TCP|10.65.107.4|172.17.12.32|22|53214|40|SSH FORWARD to LS|10 sec|
-|1119|Mar 25 02:05:53|00:0d:3a:0a:12:50:00:42:68:39:97:9d:08:00|UDP|10.65.107.4|172.17.12.36|51397|53|69|UDP Forward to WS|10 sec|
-| 14137 |Mar 25 07:01:04|00:0d:3a:0a:12:50:00:42:68:39:97:9d:08:00|RDP|10.65.107.4|172.17.12.36|55121|3389|40|RDP Forward to WS|10 sec|
+|29788|Mar 25 01:27:34|00:0d:3a:0a:12:50:00:42:68:39:97:9d:08:00|TCP| ||10.65.107.4|172.17.12.32|22|53214|40|SSH FORWARD to LS|10 sec|
+|1119|Mar 25 02:05:53|00:0d:3a:0a:12:50:00:42:68:39:97:9d:08:00|UDP| ||10.65.107.4|172.17.12.36|51397|53|69|UDP Forward to WS|10 sec|
+| 14137 |Mar 25 07:01:04|00:0d:3a:0a:12:50:00:42:68:39:97:9d:08:00|RDP| |10.65.107.4|172.17.12.36|55121|3389|40|RDP Forward to WS|10 sec|
 
 
 
