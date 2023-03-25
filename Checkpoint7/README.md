@@ -5,3 +5,5 @@
 - **STUDENT'S NUMBER: 146361209**
 - **GITHUB USER ID: 146361209-myseneca**
 - **TEACHER’S NAME: Atoosa Nasiri**
+---
+### <u>Table of Contents</u>:
