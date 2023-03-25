@@ -10,7 +10,7 @@
 1. [Part A – Logging Packets with Specific Prefixes](#logging_packets)
 2. [Part B - Filtering Logged Packets](#filtering_logged_packets)
 3. [Part C - Analyzing Logged Packets](#analyzing_logged_packets)
-4. [Part D - Azure Cost Analysis Charts](#Azure-Cost-anakysis-charts)
+4. [Part D - Azure Cost Analysis Charts](#Azure_Cost_analysis_charts)
 ---
 ## <u>Part A – Logging Packets with Specific Prefixes:</u>
 ### Firewall Log Rule Output:
@@ -39,3 +39,5 @@ Chain OUTPUT (policy ACCEPT 20 packets, 2584 bytes)
 num   pkts bytes target     prot opt in     out     source               destination
 1       62 16284 ACCEPT     all  --  *      *       0.0.0.0/0            0.0.0.0/0
 ```
+---
+## <u>Part B - Filtering Logged Packets</u>:
