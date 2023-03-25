@@ -57,7 +57,14 @@ Mar 25 07:01:04 LR-12 kernel: RDP FORWARD to WS-12 - IN=eth0 OUT=eth0 MAC=00:0d:
 | 14137 |Mar 25 07:01:04|00:0d:3a:0a:12:50:00:42:68:39:97:9d:08:00|RDP| |10.65.107.4|172.17.12.36|55121|3389|40|RDP Forward to WS|10 sec|
 ---
 ## <u>Part D - Azure Cost Analysis Charts:</u>
-
+| Number | Image | Description |
+|--|--|--|
+|1|![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint7/SS-1.png)|Last 7 days daily cost by resource|
+|2|![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint7/SS-2(service-name).png)|Last 7 days Group by service|
+|3|![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint7/SS-3.png)|Last 7 days accumulated cost by resource |
+|4|![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint7/SS-4.png)|Pie Chart by Serivce Name last month cost|
+|5|![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint7/SS-5.png)|Pie Chart by Serivce Family last month cost|
+|6|![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint7/SS-6.png)|Pie Chart by Product last month cost|
 
 
 
