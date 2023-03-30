@@ -7,3 +7,9 @@
 - **TEACHER’S NAME: Atoosa Nasiri**
 ---
 ### TABLE OF CONTENT
+1. [Part A - ](#)
+2. [Part B - ](#)
+3. [Part C - ](#)
+4. [Part D - ](#)
+---
+
