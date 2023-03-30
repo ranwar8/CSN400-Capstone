@@ -7,9 +7,9 @@
 - **TEACHER’S NAME: Atoosa Nasiri**
 ---
 ### TABLE OF CONTENT
-1. [Part A - ](#)
-2. [Part B - ](#)
-3. [Part C - ](#)
-4. [Part D - ](#)
+1. [Part A - Logging and Analyzing DNS and HTTP Traffic](#Logging and Analyzing DNS and HTTP Traffic)
+2. [Part B - Logging and Analyzing FTP and MySQL Traffic  Logging and Analyzing FTP and MySQL Traffic](# Logging and Analyzing FTP and MySQL Traffic)
+3. [Part C - Adjusting firewalls to `DROP` and `LOG` Traffic ](#Adjusting firewalls to `DROP` and `LOG` Traffic)
+4. [Part D - Azure Cost Analysis Charts](#Azure Cost Analysis Charts)
 ---
 
