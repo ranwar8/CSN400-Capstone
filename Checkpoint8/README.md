@@ -16,3 +16,6 @@
 ![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint8/PART-A(apache-filter).png)
 ---
 ## <u>Part B - Logging and Analyzing FTP and MySQL Traffic  Logging and Analyzing FTP and MySQL Traffic:</u>
+![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint8/PART-B(ftp-mysql).png)
+---
+
