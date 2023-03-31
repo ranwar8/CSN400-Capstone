@@ -22,4 +22,4 @@
 ![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint8/PART-C(drop-log).png)
 ![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint8/PART-C(drop-log-filter).png)
 ---
-
+## <u>Part D - Azure Cost Analysis Charts:</u>
