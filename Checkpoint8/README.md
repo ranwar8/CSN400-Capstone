@@ -18,4 +18,8 @@
 ## <u>Part B - Logging and Analyzing FTP and MySQL Traffic  Logging and Analyzing FTP and MySQL Traffic:</u>
 ![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint8/PART-B(ftp-mysql).png)
 ---
+## <u>Part C - Adjusting firewalls to `DROP` and `LOG` Traffic:</u>
+![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint8/PART-C(drop-log).png)
+![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint8/PART-C(drop-log-filter).png)
+---
 
