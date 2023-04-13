@@ -10,7 +10,7 @@
 1. [Part A - Route Table Updates](#header1)
 2. [Part B - Port Forwarding Basic Connectivity](#header2)
 3. [Part C - Logging & Isolating Masqueraded Packets](#header3)
-4. [Part D - Azure Cost Analysis Charts:</u>](#header4)
+4. [Part D - Azure Cost Analysis Charts](#header4)
 ---
 ### Part A - Route Table Updates:
 ---
@@ -68,3 +68,6 @@ iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
 ### Part C - Logging & Isolating Masqueraded Packets:
 ---
 <b>Screen Shot of CP-9-capture.pcap file:</b>
+
+
+### Part D - Azure Cost Analysis Charts:
