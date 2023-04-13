@@ -68,6 +68,15 @@ iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
 ### Part C - Logging & Isolating Masqueraded Packets:
 ---
 <b>Screen Shot of CP-9-capture.pcap file:</b>
+![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint9/PCAP-cp9.png)
 
 
 ### Part D - Azure Cost Analysis Charts:
+| Number | Image | Description |
+|--|--|--|
+|1|![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint9/SS-1.png)|Last 7 days daily cost by resource|
+|2|![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint9/SS-2.png)|Last 7 days Group by service|
+|3|![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint9/SS-3.png)|Last 7 days accumulated cost by resource |
+|4|![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint9/SS-4.png)|Pie Chart by Serivce Name last month cost|
+|5|![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint9/SS-5.png)|Pie Chart by Serivce Family last month cost|
+|6|![Alt txt](https://github.com/146361209-myseneca/CSN400-Capstone/blob/main/Checkpoint9/SS-6.png)|Pie Chart by Product last month cost|
