@@ -12,3 +12,21 @@
 3. [Part C - Logging & Isolating Masqueraded Packets](#header3)
 4. [Part D - Azure Cost Analysis Charts:</u>](#header4)
 ---
+### Part A - Route Table Updates:
+---
+COMMAND FOR ROUTE TABLE DETAILS:***az network route-table route show --name "External-Router" --route-table-name "RT-12" --resource-group "Student-RG-846036" --query "{id:id, addressPrefix:addressPrefix, nextHopType:nextHopType, nextHopIpAddress:nextHopIpAddress}" --output table > RT-12-details***
+```
+cat RT-12-details
+AddressPrefix     NextHopType       NextHopIpAddress
+----------------  ----------------  ------------------
+192.168.41.32/27  VirtualAppliance  192.168.12.36
+```
+---
+COMMAND FOR EX-RT-12 DETAILS:***az network route-table route show --name "Route-to-Hub" --route-table-name "RT-EX-12" --resource-group "Student-RG-846036" --query "{id:id, addressPrefix:addressPrefix, nextHopType:nextHopType, nextHopIpAddress:nextHopIpAddress}" --output table > RT-EX-12-details***
+```
+ more RT-EX-12-details 
+AddressPrefix     NextHopType       NextHopIpAddress
+----------------  ----------------  ------------------
+192.168.41.32/27  VirtualAppliance  192.168.99.36
+```
+---
