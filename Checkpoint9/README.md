@@ -30,3 +30,16 @@ AddressPrefix     NextHopType       NextHopIpAddress
 192.168.41.32/27  VirtualAppliance  192.168.99.36
 ```
 ---
+COMMAND FOR RT-EX-12-Subnet:***az network route-table show --name RT-EX-12 --resource-group "Student-RG-846036" --query "subnets[].id" --output table > RT-EX-12-Subnet***
+```
+more RT-EX-12-Subnet 
+Result
+------------------------------------------------------------------------------------------------------------------------------------------------------
+/subscriptions/bd627181-5ddb-4bb6-b03f-5297c3be4e1e/resourceGroups/Student-RG-846036/providers/Microsoft.Network/virtualNetworks/Router-12/subnets/SN1
+```
+### Part B - Port Forwarding Basic Connectivity:
+---
+<b>BASIC NAT CONNECTIVITY SCRIPT</b>:
+```
+
+```
