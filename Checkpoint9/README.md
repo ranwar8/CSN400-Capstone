@@ -67,4 +67,4 @@ iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
 ---
 ### Part C - Logging & Isolating Masqueraded Packets:
 ---
-
+<b>Screen Shot of CP-9-capture.pcap file:</b>
